@@ -1,0 +1,19 @@
+.square{
+    height: 75px;
+    width: 75px;
+    display: flex;
+    
+}
+.square-black{
+    background-color :#A48735;
+}
+.square-white{
+    background-color:#F8E0A0;
+    
+}
+.stone{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    
+}
